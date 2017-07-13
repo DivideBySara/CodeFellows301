@@ -29,3 +29,18 @@ At least Code Fellow's a/c didn't kick on until noon. Meanwhile, I worked on my 
 Fix day 1 work or move on to day 2? I decided to spend most of my time on the jQuery. After getting help from Ashwini with my icon fonts, I felt confident I could fix any other CSS problems later. Besides, I would be most helpful during paired programming having learned more jQuery.
 
 **jQuery Events**
+
+Delegate events:
+
+Just add a child parameter to an event function so you don't have to write the same function for each child. For example, if ```section``` is the parent of several ```img```'s, and I want something to happen on a click event for each image, I don't have to write an event handler for each individual image. Instead, I can write something like
+
+```
+$('section').on('click', 'img', function () {
+  // What I want to happen here.
+});```
+
+and the event handler will apply to each ```img```! Nifty :-)
+
+Data attributes:
+
+These are nifty for filtering data by an attribute. We used them to filter blog articles by author and by category in our [blog app assignment](https://github.com/codefellows-seattle-301d27/03-jquery-events/pull/14).
