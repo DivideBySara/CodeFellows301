@@ -19,3 +19,13 @@ We had a fun musical chairs exercise presenting and learning about various jQuer
 I still had to leave late, however. Putting paired programming at the end of the day == leaving late. I wish we had lectures first, paired programming 2nd, and solo projects third. As it stands, I'll have to stay late every time my partner and I have any difficulties, and then I won't see my kids before they go to bed. :-(
 
 Speaking of that solo project, I'll get it started earlier now that I have a better idea of my workflow.
+
+**Wednesday**
+
+New plan: Bike to the bus stop and take the 1st bus to light rail because traffic is terrible. I don't take my bike onto the bus because there's no safe way to bike from Westlake to Code Fellows. The downtown bus is late, crowded, and I accidently got on without tagging my ORCA card.
+
+At least Code Fellow's a/c didn't kick on until noon. Meanwhile, I worked on my Portfolio.
+
+Fix day 1 work or move on to day 2? I decided to spend most of my time on the jQuery. After getting help from Ashwini with my icon fonts, I felt confident I could fix any other CSS problems later. Besides, I would be most helpful during paired programming having learned more jQuery.
+
+**jQuery Events**
