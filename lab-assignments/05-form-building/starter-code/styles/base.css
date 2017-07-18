@@ -1,0 +1,79 @@
+img {
+  max-width: 100%;
+}
+
+body {
+  line-height: 1.5;
+  font-size: 100%;
+  color: #313131;
+}
+
+main {
+  margin: auto;
+  width: 90%;
+}
+
+hr {
+  margin: 1em;
+  width: 80%;
+}
+
+footer {
+  margin-top: 40px;
+}
+
+/*TEXT STYLES
+=======================================*/
+p {
+  font-size: 1em;
+}
+
+address {
+  display: inline-block;
+}
+
+/*LINK STYLES
+=======================================*/
+
+a, a:link, a:active {
+  text-decoration: none;
+  color: #777;
+}
+
+a:hover, a:focus {
+  color: #29506D;
+}
+
+a:visited {
+}
+
+/*FORM STYLES
+=======================================*/
+/*DONE: Add the CSS needed to style the form
+est 15min act 15min*/
+form {
+  font-size: 150%;
+  line-height: 150%;
+}
+
+fieldset {
+  margin: 1%;
+  margin-left: 0;
+  max-width: 800px;
+  border: 2px dashed black;
+}
+
+fieldset * {
+  display: block;
+  margin: 1%;
+}
+
+textarea {
+  width: 100%;
+  margin: auto;
+  height: 200px;
+}
+
+label * {
+  display: inline;
+}
