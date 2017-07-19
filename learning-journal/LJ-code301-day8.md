@@ -1,4 +1,4 @@
-"#LJ Code 301 - Day8
+#LJ Code 301 - Day8
 
 **Node.js**
 
