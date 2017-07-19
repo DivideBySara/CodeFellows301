@@ -1,5 +1,5 @@
 
-#LJ Code 301 - Day8
+# LJ Code 301 - Day8
 
 **Node.js**
 
@@ -9,15 +9,11 @@ Node.js before, but only on the front-end. The code for the backend was largely
 provided to us, so I didn't understand how the backend worked. I didn't add the
 code to server.js or write its methods.
 
-<pre>
-app.get()
-<pre>
+```app.get()```
 
 and
 
-<pre>
-app.post()
-<pre>
+```app.post()```
 
 now make more sense.
 
