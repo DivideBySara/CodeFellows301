@@ -17,7 +17,7 @@ and
 
 now make more sense.
 
-**Coffee & Communting**
+**Coffee & Commuting**
 
 The coffee is the same terrible brand; it didn't change after all, but milk
 makes it much better. :-)
